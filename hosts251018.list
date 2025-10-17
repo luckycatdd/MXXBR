@@ -194,8 +194,9 @@ DOMAIN-SUFFIX,mercury-sdk.snssdk.com
 DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,ad.10010.con
 DOMAIN-SUFFIX,smartad.10010.com
-DOMAIN-SUFFIX,short.weixin.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,szminorshort.weixin.qq.com
+DOMAIN-SUFFIX,szextshort.weixin.qq.com
 
 
 
