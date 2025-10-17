@@ -196,9 +196,7 @@ DOMAIN-SUFFIX,ad.10010.con
 DOMAIN-SUFFIX,smartad.10010.com
 DOMAIN-SUFFIX,wxsmw.wxs.qq.com
 DOMAIN-SUFFIX,wximg.wxs.qq.com
-DOMAIN-SUFFIX,minorshort.weixin.qq.com
-DOMAIN-SUFFIX,extshort.weixin.qq.com
-DOMAIN-SUFFIX,szextshort.weixin.qq.com
+DOMAIN-KEYWORD,short.weixin.qq.com
 
 
 
