@@ -176,7 +176,10 @@ DOMAIN-SUFFIX,map.qq.com
 DOMAIN-SUFFIX,up-hl.3g.qq.com
 DOMAIN-SUFFIX,m.taobao.com
 DOMAIN-SUFFIX,adsco.re
-
+DOMAIN-SUFFIX,www.google-analytics.com
+DOMAIN-SUFFIX,ad.12306.cn
+DOMAIN-KEYWORD,.ad.
+DOMAIN-KEYWORD,.ads.
 
 
 
