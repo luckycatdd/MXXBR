@@ -181,7 +181,11 @@ DOMAIN-SUFFIX,www.google-analytics.com
 DOMAIN-SUFFIX,ad.12306.cn
 DOMAIN-KEYWORD,.ad.
 DOMAIN-KEYWORD,.ads.
-
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,im.weibo.cn
+DOMAIN-SUFFIX,im.wei.cn
+DOMAIN-SUFFIX,biz.weibo.com
+DOMAIN-SUFFIX,ef-dongfeng.tanx.com
 
 
 
