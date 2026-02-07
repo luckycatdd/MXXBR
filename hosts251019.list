@@ -159,8 +159,6 @@ DOMAIN-SUFFIX,zjxl.cpic.com.cn
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,baichuan-sdk.taobao.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,mazu.m.qq.com
 DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
 DOMAIN-SUFFIX,adashbc.ut.taobao.com
@@ -178,8 +176,6 @@ DOMAIN-SUFFIX,m.taobao.com
 DOMAIN-SUFFIX,adsco.re
 #DOMAIN-SUFFIX,www.google-analytics.com
 DOMAIN-SUFFIX,ad.12306.cn
-DOMAIN-KEYWORD,.ad.
-DOMAIN-KEYWORD,.ads.
 DOMAIN-SUFFIX,ef-dongfeng.tanx.com
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN-SUFFIX,tvax2.sinaimg.cn
